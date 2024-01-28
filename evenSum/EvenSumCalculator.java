@@ -1,4 +1,10 @@
 import java.util.Scanner;
+
+/*
+ * This program prompts the user for an integer and calculates a sum of even numbers
+ * from 1 to that integer (inclusive).
+ * This program contains a bug. Use a debugger to identify the bug and fix it.
+ **/
 public class EvenSumCalculator {
     
     public static void main(String[] args) {
